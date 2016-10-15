@@ -3,8 +3,8 @@ var path = require('path');
 //var config = require(path.join(__dirname, '..', 'apiConfig'))
 
 var sns = new AWS.SNS({
-	accessKeyId: 'AKIAJUJZLIEARKLD6YGQ',
-    secretAccessKey: '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',
+	accessKeyId: '**************',
+    secretAccessKey: '****************',
 	region:'ap-southeast-1'
 });
 
